@@ -1,0 +1,8 @@
+{
+	"name": "test-mod",
+	"displayName": "Test Mindustry Mod",
+	"author":"LottieVixen",
+	"description": "test mod",
+	"version": "0.0.1",
+	"minGameVersion":121
+}
